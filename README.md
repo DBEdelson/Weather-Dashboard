@@ -18,7 +18,7 @@ https://dbedelson.github.io/Weather-Dashboard/
 
 
 
-![ScreenShot.png!](./assets/images/Screen%20Shot%202022-09-01%20at%206.56.24%20PM.png)
+![ScreenShot.png!](./assets%20/images%20/Weather%20Screen%20Shot%20.png)
 
 Credits
 Github: https://github.com/Salissa4
